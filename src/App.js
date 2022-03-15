@@ -8,6 +8,9 @@ import AboutPage from "./pages/AboutPage";
 import AboutIconLink from "./components/AboutIconLink";
 import { FeedbackProvider } from "./context/FeedbackContext";
 
+// TODO
+// Make it serverless
+
 function App() {
   return (
     <FeedbackProvider>
